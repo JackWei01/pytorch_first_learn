@@ -1,0 +1,7 @@
+*.pth
+*.tar.gz
+torch/hymenoptera_data/train
+torch/hymenoptera_data/val
+
+
+
